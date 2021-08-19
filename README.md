@@ -33,11 +33,12 @@ Specifically we break the data down into the following categories:
 9.) Top items sold by number of purchases
 
 <!-- App Usage -->
+## App Usage
 
 Congifuration and Operation: Make sure you have the CSV containing game data in the correct folder so it can be properly read into Jupyter Notebooks. After downloading the .CSV and the Jupyter Notebook file open your terminal and turn on PythonData: conda activate PythonData, then open Juypter Notebooks: Jupyter Notebook. Once Jupyter Notebooks is opened make sure to run the imports at the top or the rest of the code sections won't work!
 
 <!-- Project Screenshots -->
-
+## Project Screenshots
 * CSV Import and Player Count
 
 ![image](https://github.com/Boyder3113/Pandas/blob/main/Images/Import%20and%20Player%20Count.PNG?raw=true)
