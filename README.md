@@ -8,6 +8,8 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
+    <li><a href="#built-with">App Usage</a></li>
+    <li><a href="#built-with">Project Screenshots</a></li>
     <li><a href="#built-with">Built With</a></li>
   </ol>
 </details>
@@ -33,6 +35,21 @@ Specifically we break the data down into the following categories:
 <!-- App Usage -->
 
 Congifuration and Operation: Make sure you have the CSV containing game data in the correct folder so it can be properly read into Jupyter Notebooks. After downloading the .CSV and the Jupyter Notebook file open your terminal and turn on PythonData: conda activate PythonData, then open Juypter Notebooks: Jupyter Notebook. Once Jupyter Notebooks is opened make sure to run the imports at the top or the rest of the code sections won't work!
+
+<!-- Project Screenshots -->
+
+* CSV Import and Player Count
+
+![image](https://github.com/Boyder3113/Pandas/blob/main/Images/Import%20and%20Player%20Count.PNG?raw=true)
+
+* Purchasing Analysis
+
+![image](https://github.com/Boyder3113/Pandas/blob/main/Images/Purchasing%20Analysis.PNG?raw=true)
+
+* Player Gender Demographics
+
+![image](https://github.com/Boyder3113/Pandas/blob/main/Images/Gender%20Demographics.PNG?raw=true)
+
 
 
 <!-- BUILT WITH -->
